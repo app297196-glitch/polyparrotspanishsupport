@@ -11,7 +11,6 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>PolyParrot Spanish Privacy Policy</title>
 </head>
 <body>
   <h1>Privacy Policy</h1>
