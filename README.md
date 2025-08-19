@@ -2,8 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>PolyParrot Spanish Support</title>
-</head>
+  </head>
 <body>
   <h1>PolyParrot Spanish</h1>
   <p>Welcome! This is the official support page for the PolyParrot Spanish app.</p>
